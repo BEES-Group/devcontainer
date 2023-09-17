@@ -1,5 +1,7 @@
 # BEES's Dev Container
 
+[![.github/workflows/main.yml](https://github.com/BEES-Group/devcontainer/actions/workflows/main.yml/badge.svg)](https://github.com/BEES-Group/devcontainer/actions/workflows/main.yml)
+
 In commitment to <https://containers.dev/>
 
 ## Included tools
